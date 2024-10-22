@@ -1,0 +1,28 @@
+^D:\13-TRABAJOSCONSULTORIA\ISIL\CURSOS\DESARROLLO-FLUTTER\PRUEBAS\FLUTTER_CREATE_COMMAND\BUILD\WINDOWS\X64\CMAKEFILES\AA3A7E99300AB3387F7E7B78396ED43A\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\SDKs\Flutter\flutter PROJECT_DIR=D:\13-TrabajosConsultoria\ISIL\Cursos\Desarrollo-Flutter\Pruebas\flutter_create_command FLUTTER_ROOT=C:\SDKs\Flutter\flutter FLUTTER_EPHEMERAL_DIR=D:\13-TrabajosConsultoria\ISIL\Cursos\Desarrollo-Flutter\Pruebas\flutter_create_command\windows\flutter\ephemeral PROJECT_DIR=D:\13-TrabajosConsultoria\ISIL\Cursos\Desarrollo-Flutter\Pruebas\flutter_create_command FLUTTER_TARGET=D:\13-TrabajosConsultoria\ISIL\Cursos\Desarrollo-Flutter\Pruebas\flutter_create_command\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\13-TrabajosConsultoria\ISIL\Cursos\Desarrollo-Flutter\Pruebas\flutter_create_command\.dart_tool\package_config.json C:/SDKs/Flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\13-TRABAJOSCONSULTORIA\ISIL\CURSOS\DESARROLLO-FLUTTER\PRUEBAS\FLUTTER_CREATE_COMMAND\BUILD\WINDOWS\X64\CMAKEFILES\9F9EFD6544D908823C4ED2D12A4A8E38\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\13-TRABAJOSCONSULTORIA\ISIL\CURSOS\DESARROLLO-FLUTTER\PRUEBAS\FLUTTER_CREATE_COMMAND\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Enterprise\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/windows -BD:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64 --check-stamp-file D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,10 @@
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/icudtl.dat
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/flutter_windows.dll
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+D:/13-TrabajosConsultoria/ISIL/Cursos/Desarrollo-Flutter/Pruebas/flutter_create_command/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag
